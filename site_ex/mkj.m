@@ -1,0 +1,2 @@
+plot(b)
+grid on
