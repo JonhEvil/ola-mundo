@@ -1,6 +1,6 @@
 %--------------------------------------------------------------------------
-% Ola Simple FINITE ELEMENT CODE FOR a 2node (linear) 1D 2nd order diff. equation
-%
+% Ola  Simple FINITE ELEMENT CODE FOR a 2node (linear) 1D 2nd order diff. equation
+% como estao meus meninos
 % version 04 M.M. Neves - It is not a fully tested code. 
 % This version * Mar 2020 (Octave, but runs in Matlab)
 % Solve 
